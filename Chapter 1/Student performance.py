@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+# Student Performance
 
 # load dataset (student Portuguese scores)
 import pandas as pd
